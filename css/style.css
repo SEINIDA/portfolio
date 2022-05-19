@@ -1030,6 +1030,7 @@ section#ability > .ability-container > .stick > .stick-container > .item .progre
   background-color: #68c3a3;
   -webkit-transition: all 2s ease-in-out;
   transition: all 2s ease-in-out;
+  color: #fff;
 }
 
 section#ability > .ability-container > .stick > .stick-container > .item .progress .bar > span {
